@@ -3,5 +3,5 @@
 **Integrantes:** Alegre Fabricio · Ramírez Damián (Equipo 4)  
 
 ## Estructura de la Carpeta
-* **`consigna/`**: Guía de la actividad práctica de Buenas Prácticas de Desarrollo.
-* **`entrega/`**: Informe grupal del Equipo 4, informe técnico detallado y síntesis ejecutiva.
+* **`consigna/`**: Guía y material teórico de Buenas Prácticas de Desarrollo.
+* **`entrega/`**: Resolución práctica del Equipo 4, informe síntesis de buenas prácticas y análisis del patrón Template Method (documento y diagrama).
