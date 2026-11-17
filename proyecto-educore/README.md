@@ -9,4 +9,3 @@
 ## Estructura de la Carpeta
 * **`plan-de-trabajo/`**: Planes de trabajo del proyecto integrador.
 * **`coevaluaciones/`**: Plantillas e informes de resolución de coevaluaciones de parciales.
-* **`presentacion/`**: Guion de exposición y material de defensa ante la cátedra.

@@ -17,7 +17,7 @@ Este repositorio centraliza la totalidad de los trabajos prácticos, especificac
 | **TP 03** | Planificación y Arquitectura de Aplicación Móvil | [`tp03-app-movil`](./tp03-app-movil) | Entregado |
 | **TP 04** | Integración Continua, Despliegue Continuo (CI/CD) y Pipelines | [`tp04-integracion-y-despliegue-continuo`](./tp04-integracion-y-despliegue-continuo) | Entregado |
 | **TP 05** | Calidad de Software, Testing y Coevaluación | [`tp05-calidad-de-software`](./tp05-calidad-de-software) | Entregado |
-| **Proyecto** | Ecosistema **EduCore** (Planes, Coevaluaciones y Guion) | [`proyecto-educore`](./proyecto-educore) | Finalizado |
+| **Proyecto** | Ecosistema **EduCore** (Planes y Coevaluaciones) | [`proyecto-educore`](./proyecto-educore) | Finalizado |
 
 ---
 
