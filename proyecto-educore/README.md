@@ -7,5 +7,4 @@
 * **Repositorio Móvil:** [`https://github.com/EduCore-Systems/app-movil-centro.educativo`](https://github.com/EduCore-Systems/app-movil-centro.educativo)
 
 ## Estructura de la Carpeta
-* **`plan-de-trabajo/`**: Planes de trabajo del proyecto integrador.
-* **`coevaluaciones/`**: Plantillas e informes de resolución de coevaluaciones de parciales.
+* **`plan-de-trabajo/`**: Planes oficiales de trabajo del proyecto integrador (Alegre Fabricio y Ramírez Damián).

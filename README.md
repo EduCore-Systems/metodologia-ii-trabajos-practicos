@@ -8,7 +8,7 @@
 
 ## Índice General del Repositorio
 
-Este repositorio centraliza la totalidad de los trabajos prácticos, especificaciones de requerimientos, análisis de buenas prácticas, planificación móvil, integración continua, auditorías de calidad y artefactos del proyecto integrador **EduCore** desarrollados durante la cursada.
+Este repositorio centraliza la totalidad de los trabajos prácticos, especificaciones de requerimientos, análisis de buenas prácticas, planificación móvil, integración continua, auditorías de calidad y plan de trabajo del proyecto integrador **EduCore** desarrollados durante la cursada.
 
 | Unidad / Bloque | Tema Principal | Carpeta | Estado |
 | :--- | :--- | :--- | :---: |
@@ -16,8 +16,8 @@ Este repositorio centraliza la totalidad de los trabajos prácticos, especificac
 | **TP 02** | Buenas Prácticas de Desarrollo de Software | [`tp02-buenas-practicas`](./tp02-buenas-practicas) | Entregado |
 | **TP 03** | Planificación y Arquitectura de Aplicación Móvil | [`tp03-app-movil`](./tp03-app-movil) | Entregado |
 | **TP 04** | Integración Continua, Despliegue Continuo (CI/CD) y Pipelines | [`tp04-integracion-y-despliegue-continuo`](./tp04-integracion-y-despliegue-continuo) | Entregado |
-| **TP 05** | Calidad de Software, Testing y Coevaluación | [`tp05-calidad-de-software`](./tp05-calidad-de-software) | Entregado |
-| **Proyecto** | Ecosistema **EduCore** (Planes y Coevaluaciones) | [`proyecto-educore`](./proyecto-educore) | Finalizado |
+| **TP 05** | Calidad de Software, Testing y Verificación | [`tp05-calidad-de-software`](./tp05-calidad-de-software) | Entregado |
+| **Proyecto** | Ecosistema **EduCore** (Plan de Trabajo Oficial) | [`proyecto-educore`](./proyecto-educore) | Entregado |
 
 ---
 
@@ -35,5 +35,5 @@ El código fuente productivo del ecosistema **EduCore** se gestiona en sus propi
 Cada directorio de trabajo práctico está estructurado bajo el mismo estándar para facilitar su lectura y evaluación por parte de la cátedra:
 
 * **`consigna/`**: Enunciados oficiales, guías y plantillas base provistas por la cátedra.
-* **`entrega/`**: Informes finales, resoluciones prácticas y presentaciones elaboradas por el equipo.
+* **`entrega/`**: Informes finales, resoluciones prácticas y entregas oficiales elaboradas por el equipo.
 * **`README.md`**: Carátula descriptiva con el detalle de los archivos incluidos en esa unidad.
