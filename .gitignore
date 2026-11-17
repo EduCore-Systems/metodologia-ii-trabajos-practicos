@@ -1,0 +1,15 @@
+# Seguridad y credenciales
+.env
+*.env
+*credencial*
+*password*
+*contraseña*
+
+# Binarios pesados y temporales de Office / Sistema
+*.apk
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+__pycache__/
+node_modules/
